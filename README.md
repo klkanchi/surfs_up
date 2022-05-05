@@ -9,16 +9,23 @@ Once we run our queries we store the temperatures in a list then convert them to
 
 
 ## Results:
-June Summary Statistics
+
+`June Summary Statistics:`
+
 ![June_temp_summary.png](https://github.com/klkanchi/surfs_up/blob/main/output/June_temp_summary.png)
 
+`December Summary Statistics:`
 
-December Summary Statistics
 ![Dec_temp_summary.png](https://github.com/klkanchi/surfs_up/blob/main/output/Dec_temp_summary.png)
 
+
+1. Average temperature between June and December is 75 and 71 degrees respectively, show a moderate temperature and very little fluctuation between the two periods from an average standpoint.
+
+2. The maximum temperatures of 85 (June) and 83 (December) are also similar.
+
+3. The minimum temperature of 64 in June  and  56 in December show the greatest variance, and reflects a much lower temperature level in December that may not be conducive to ice cream or surfing. However, with standard deviations of 3.25 (June) and 3.74 (December) we would expect a little more variation in the december numbers.
 
 
 ## Summary:
 
-From our data we can tell what our temperatures are but since there are other attributes to the weather such as precipitation it shows that we can run additional queries to let us know whether or not people can come and visit the shop.
-If we are able to gain more data for the area we can run even more queries! From there we can decide how we would like to build the shop and what areas would make this a more prominent location for visitors to come.
+  Overall the weather in December and June are very similar, although December has a wider range of results, with its high being close to June's but the low's  are way below June minimum temperature. If we are able to gain more data for the area we can run even more additional queries that could be run include: Precipation difference between June and December to determine is one has more rainy weather, as well as a comaparison by weather station, as we may see higher/lower temperatures and precipitation levels at different locations. We would be primarily interested in the weather station closest to our prospective location, which would narrow the results and provide the best data for us to consider.
